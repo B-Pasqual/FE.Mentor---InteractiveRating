@@ -116,6 +116,13 @@ p {
   position: relative;
 }
 
+.rate {
+  position: absolute;
+  bottom: -10%;
+  background-color: hsla(216, 12%, 54%, 0.125);
+  color: white;
+}
+
 /* ! Hover states */
 
 .circle:hover {
